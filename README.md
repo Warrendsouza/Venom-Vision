@@ -21,3 +21,9 @@ Venom-Vision is a valuable tool for wildlife enthusiasts, researchers, and commu
 ![image](https://github.com/user-attachments/assets/46dc3b6d-b697-4dfd-adc8-4a274c7d8bf6)
 
 
+#venomvision
+#yolov8
+#resnet50
+#tensorflow
+#tensorflowlite
+#tflite
