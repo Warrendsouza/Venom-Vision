@@ -1,0 +1,42 @@
+Western_Ribbon_Snake,thamnophis-proximus,Non-Venemous,Colubridae
+Western_Rat_Snake,pantherophis-obsoletus,non-Venemous,Colubridae
+Western_Diamondback_Rattlesnake,crotalus-atrox,Venemous,Caenophidia
+Water_Moccasin,agkistrodon-piscivorus,Venemous,Viperidae
+Timber_Rattlesnake,crotalus-horridus,Venemous,Viperidae
+Terrestrial_Garter_Snake,thamnophis-elegans,Venemous,Colubridae
+Rough_Green_Snake,opheodrys-aestivus,non-Venemous,Colubridae
+Rough_Earth_Snake,haldea-striatula,non-Venemous,Colubridae
+Ring-necked_Snake,diadophis-punctatus,non-Venemous,Colubridae
+Red-bellied_Snake,storeria-occipitomaculata,Venemous,Colubridae
+Red_Diamond_Rattlesnake,Crotalus ruber,Venemous,Viperidae
+Python,Pythonidae,non-Venemous,Pythonidae
+Prairie_Rattlesnake,crotalus-viridis,Venemous,Viperidae
+Plains_Garter_Snake,thamnophis-radix,non-Venemous,Colubridae
+Plain-bellied_Water_Snake,nerodia-erythrogaster,non-Venemous,Colubridae
+Pit_Viper_Venomous,Crotalinae,Venemous,Viperidae
+Northern_Water_Snake,nerodia-sipedon,non-Venemous,Colubridae
+Mojave_Rattlesnake,crotalus-scutulatus,Venemous,Viperidae
+Long-nosed_Snake,rhinocheilus-lecontei,non-Venemous,Colubridae
+Kukri,Oligodon_arnensis,non-Venemous,Colubridae
+Keelback,Xenochrophis piscator,non-Venemous,Colubridae
+Indian_Cat-Ven,Boiga trigonata,mildly-Venomous,Colubridae
+Great_Plains_Rat_Snake,pantherophis-emoryi,non-Venemous,Colubridae
+Gray_Rat_Snake,pantherophis-spiloides,non-Venemous,Colubridae
+Grass_Snake,natrix-natrix,non-Venemous,Colubridae
+Gopher_Snake,pituophis-catenifer,non-Venemous,Colubridae
+Fox_Snake,pantherophis-vulpinus,non-Venemous,Colubridae
+Eastern_Rat_Snake,pantherophis-alleghaniensis,non-Venemous,Colubridae
+Eastern_Racer,coluber-constrictor,non-Venemous,Colubridae
+Eastern_Milk Snake,lampropeltis-triangulum,non-Venemous,Colubridae
+Eastern_Hognose_Snake,heterodon-platirhinos,non-Venomous,Colubridae
+Diamond-backed_Water_Snake,nerodia-rhombifer,non-Venemous,Colubridae
+Dekays_Brown_Snake,storeria-dekayi,non-Venemous,Colubridae
+Corn_Snake,pantherophis-guttatus,non-Venemous,Colubridae
+Copperhead,agkistrodon-contortrix,Venemous,Viperidae
+Common_Garter_Snake,thamnophis-sirtalis,non-Venemous,Colubridae
+COBRA,Naja_Naja,Venemous,Elapidae
+Coachwhip,masticophis-flagellum,non-Venemous,Colubridae
+Checkered_Garter_Snake,thamnophis-marcianus,non-Venemous,Colubridae
+California_Kingsnake,lampropeltis-californiae,non-Venemous,Colubridae
+BLACK_HEADED_ROYAL_SNAKE,Spalerosophis-atriceps,non-Venemous,Colubridae
+Banded_Water,Snakenerodia-fasciata,non-Venemous,Colubridae

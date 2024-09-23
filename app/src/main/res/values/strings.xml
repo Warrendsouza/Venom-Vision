@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Venom-Vision</string>
+    <string name="detect_txt">1. First import or capture an image \n2. When is load into the ImageView, you are ready to detect the snake</string>
+    <string name="resultTxt">Your Result</string>
+    <string name="buttonDiagnose">Detect</string>
+</resources>
