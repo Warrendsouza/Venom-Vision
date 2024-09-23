@@ -1,19 +1,23 @@
 ## YOLOv8 Live Object Detection Android Application
 
-### Description
-This Android application is designed to perform live object detection using the YOLOv8 machine learning model. YOLOv8 (You Only Look Once version 8) is known for its real-time object detection capabilities, and this app brings that functionality to Android devices. 
+**Venom-Vision: Real-Time Snake Detection and Classification App**
 
-### Getting Started
-To use this repository for any custom YOLOv8 Object detection model, follow these steps:
-1. Clone this repository to your local machine using `git clone https://github.com/surendramaran/YOLOv8-TfLite-Object-Detector`.
-2. Put your .tflite model and .txt label file inside the assets folder
-3. Rename paths of your model and labels file in Constants.kt file
-4. **Build and Run:**
+Venom-Vision is an advanced real-time object detection app designed to identify snakes and classify their species instantly. Utilizing cutting-edge machine learning algorithms, this app can accurately detect the presence of snakes in the environment through live video feed, determining whether the snake is venomous or non-venomous.
 
-### Contributing
-Contributions are welcome! If you want to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
+Key features include:
+- **Real-Time Snake Detection:** Automatically recognizes snakes from the video stream and provides instant feedback.
+- **Species Identification:** Classifies the species of the detected snake, drawing from an extensive database of snakes.
+- **Venomous or Non-Venomous Indicator:** Provides crucial information on whether the identified snake poses a potential threat by indicating if it is venomous.
+- **Snake Detection History:** Displays a comprehensive history of all snakes previously detected in a specific area, helping users stay informed about the presence and movement of snakes in their surroundings.
 
-### Contact
-For any questions or feedback, feel free to contact [surendramaran8@gmail.com] or open an [issue](https://github.com/surendramaran/YOLOv8-TfLite-Object-Detector/issues/new) in the repository.
+Venom-Vision is a valuable tool for wildlife enthusiasts, researchers, and communities in areas with significant snake populations, offering critical information for safety and awareness.
 
----
+
+
+
+![image](https://github.com/user-attachments/assets/721753a1-eacd-46e0-ac30-c4475c9bd06b)
+![image](https://github.com/user-attachments/assets/fe098f4d-11df-4e10-b2bc-e246117f88e0)
+
+![image](https://github.com/user-attachments/assets/46dc3b6d-b697-4dfd-adc8-4a274c7d8bf6)
+
+
